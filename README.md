@@ -12,7 +12,7 @@ Me acho Hermando Thiago, sou um apaixonado por tecnologia e tudo que ela nos pro
 
 ### Manda uma mensagem :stuck_out_tongue_closed_eyes:
 
-[![Gmail Badge](C:\Users\Hermando Thiago\Downloads\icons-github\reduce\gmail.png)](mailto:hermandodev@gmail.com)  [![GitHub Badge](C:\Users\Hermando Thiago\Downloads\icons-github\reduce\github.png)](https://github.com/HermandoThiago)  [![Telegram Badge](C:\Users\Hermando Thiago\Downloads\icons-github\reduce\telegram.png)](https://t.me/HermandoThiago)  [![Whatsapp Badge](C:\Users\Hermando Thiago\Downloads\icons-github\reduce\whatsapp.png)](https://api.whatsapp.com/send?phone=5584998681388)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hermandodev@gmail.com)  [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HermandoThiago)  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HermandoThiago)  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584998681388)
 
 ### Agradecimentos
 
