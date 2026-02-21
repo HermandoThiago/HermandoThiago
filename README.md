@@ -3,6 +3,13 @@
 🚀 **Software Developer Javascript/Typescript & Python**
 🇧🇷 **Brazil**
 
+ ## Github Stats:
+<a href="https://github.com/hermandothiago">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hermandothiago&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+</a>
+
+
+
 #### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
