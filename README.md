@@ -1,14 +1,19 @@
 ## **Hello, i am Hermando Thiago!** 👋
 
 🚀 **Software Developer Javascript/Typescript & Python**
+
 🇧🇷 **Brazil**
 
- ## Github Stats:
-<a href="https://github.com/hermandothiago">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hermandothiago&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
+ #### Github Stats:
+ <p align="left">
+  <a href="https://github.com/hermandothiago">
+   <img height="180em" src="https://github-readme-stats-defcon27.vercel.app/api?username=hermandothiago&show_icons=true&theme=dracula" alt="HermandoThiago Github Stats" />
+  
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hermandothiago&langs_count=12&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+</p>
 
-
+<br clear="both">
 
 #### 🛠 &nbsp;Tech Stack
 
