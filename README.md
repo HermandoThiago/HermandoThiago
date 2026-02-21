@@ -1,10 +1,7 @@
-# **Olá, me chamo Hermando Thiago!!** :smile:
+## **Hello, i am Hermando Thiago!** 👋
 
-<div align="left">
-  <a href="https://github.com/HermandoThiago">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=HermandoThiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermandoThiago&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+🚀 **Software Developer Javascript/Typescript & Python**
+🇧🇷 **Brazil**
 
 #### 🛠 &nbsp;Tech Stack
 
